@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class    CaryanamFinservApplication {
+public class    VahanFinservApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(CaryanamFinservApplication.class, args);
+        SpringApplication.run(VahanFinservApplication.class, args);
         System.out.println("VahanFinserv Application started");
         System.out.println("\n\n");
         System.err.println("PORT : localhost8080");
